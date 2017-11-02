@@ -10,7 +10,12 @@
 
 爬取结果，共3.5G，去除10K以下的无效图片，有2815张：
 
-![爬取结果][http://o7myibfc7.bkt.clouddn.com/ruisi_pictures.jpg]
+<p align="center">
+    <a href="http://ykksmile.top/2017/11/02/get-ruisi-pictures/" target="_blank">
+        <img src="http://o7myibfc7.bkt.clouddn.com/ruisi_pictures.jpg">
+    </a>
+</p>
+
 
 ### 主要参考
 
